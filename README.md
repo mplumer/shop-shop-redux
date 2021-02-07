@@ -23,7 +23,7 @@ Shop-Shop-Redux is an e-commerce MERN application that utilizes Apollo, Redux, G
 ![Screenshot](client/public/images/screenshot.png)
  
 ### Installation
-Follow the deployed application link: https://shop-shop-redux.herokuapp.com. 
+Follow the deployed application link: https://shop-shop-redux-max.herokuapp.com. 
 
 ### Usage
 The homepage displays a full list of products. Click on the category tabs to sort products by category. Sign up for an account to gain access to the shopping cart and place orders.  
